@@ -1,0 +1,15 @@
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Debug\WastedEarth.exe
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Debug\WastedEarth.pdb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\obj\x86\Debug\WastedEarth.exe
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\obj\x86\Debug\WastedEarth.pdb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Debug\Content\Models\box.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Debug\Content\Models\sky-sphere2.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Debug\Content\Models\earth.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Debug\Content\Models\skyspheregrey.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Debug\Content\Models\earth2.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Debug\Content\Models\skyspheregrey_0.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Debug\Content\Models\earth2_0.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Debug\Content\myFont.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Debug\Content\Models\crosshair.xnb

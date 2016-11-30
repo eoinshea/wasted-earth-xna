@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\box.x</Source>
+      <Name>Models\box</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\box.xnb</Output>
+      <Time>2010-12-18T13:27:43.0092206+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\box_0.xml</Key>
+        <Value>2010-12-18T15:39:13.3038942+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\sky-sphere2.x</Source>
+      <Name>Models\sky-sphere2</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\sky-sphere2.xnb</Output>
+      <Time>2010-12-18T13:27:43.1582292+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\sky-sphere2_0.xml</Key>
+        <Value>2010-12-18T15:39:13.858926+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\skyspheregrey_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\earth.fbx</Source>
+      <Name>Models\earth</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\earth.xnb</Output>
+      <Time>2010-12-18T13:27:43.067224+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\earth_0.xml</Key>
+        <Value>2010-12-18T15:39:16.9806036+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\earth2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\skyspheregrey.jpg</Source>
+      <Name>Models\skyspheregrey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\skyspheregrey.xnb</Output>
+      <Time>2010-12-18T13:27:43.2102321+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\earth2.jpg</Source>
+      <Name>Models\earth2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\earth2.xnb</Output>
+      <Time>2010-12-18T13:28:20.3093541+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\CrossHair-Red.png</Source>
+      <Name>Models\CrossHair-Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\CrossHair-Red.xnb</Output>
+      <Time>2010-12-18T14:54:07.9696024+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\crosshair.png</Source>
+      <Name>Models\crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\crosshair.xnb</Output>
+      <Time>2010-12-18T15:09:39.6112182+00:00</Time>
+    </Item>
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\myFont.xnb</Output>
+      <Time>2010-12-18T14:37:43.0692842+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\box.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\box_0.xml</Output>
+      <Time>2010-12-18T13:27:43.0092206+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\sky-sphere2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\sky-sphere2_0.xml</Output>
+      <Time>2010-12-18T13:27:43.1582292+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skyspheregrey.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\skyspheregrey_0.xnb</Output>
+      <Time>2010-12-18T13:27:43.2102321+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\earth.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\earth_0.xml</Output>
+      <Time>2010-12-18T13:27:43.067224+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\earth2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\earth2_0.xnb</Output>
+      <Time>2010-12-18T13:28:20.3093541+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-10-15T19:32:43.2840868+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

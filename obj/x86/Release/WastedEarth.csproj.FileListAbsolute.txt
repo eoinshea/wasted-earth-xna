@@ -1,0 +1,16 @@
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\box.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\sky-sphere2.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\earth.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\skyspheregrey.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\earth2.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\CrossHair-Red.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\crosshair.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\myFont.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\skyspheregrey_0.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\Content\Models\earth2_0.xnb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\WastedEarth.exe
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\bin\x86\Release\WastedEarth.pdb
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\obj\x86\Release\WastedEarth.exe
+C:\Users\UPSTAIRS\Documents\Visual Studio 2008\Projects\WastedEarth\WastedEarth\obj\x86\Release\WastedEarth.pdb
